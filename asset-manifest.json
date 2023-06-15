@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Hero_Admin/static/css/main.48947a2a.chunk.css",
+    "main.js": "/Hero_Admin/static/js/main.797217fe.chunk.js",
+    "main.js.map": "/Hero_Admin/static/js/main.797217fe.chunk.js.map",
+    "runtime-main.js": "/Hero_Admin/static/js/runtime-main.0daebcdc.js",
+    "runtime-main.js.map": "/Hero_Admin/static/js/runtime-main.0daebcdc.js.map",
+    "static/css/2.c62e3214.chunk.css": "/Hero_Admin/static/css/2.c62e3214.chunk.css",
+    "static/js/2.56d3aaef.chunk.js": "/Hero_Admin/static/js/2.56d3aaef.chunk.js",
+    "static/js/2.56d3aaef.chunk.js.map": "/Hero_Admin/static/js/2.56d3aaef.chunk.js.map",
+    "index.html": "/Hero_Admin/index.html",
+    "static/css/2.c62e3214.chunk.css.map": "/Hero_Admin/static/css/2.c62e3214.chunk.css.map",
+    "static/css/main.48947a2a.chunk.css.map": "/Hero_Admin/static/css/main.48947a2a.chunk.css.map",
+    "static/js/2.56d3aaef.chunk.js.LICENSE.txt": "/Hero_Admin/static/js/2.56d3aaef.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/Hero_Admin/static/media/hero_bg.0540b794.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0daebcdc.js",
+    "static/css/2.c62e3214.chunk.css",
+    "static/js/2.56d3aaef.chunk.js",
+    "static/css/main.48947a2a.chunk.css",
+    "static/js/main.797217fe.chunk.js"
+  ]
+}
